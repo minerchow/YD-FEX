@@ -1,9 +1,9 @@
 # 优梦大前端，有梦终实现！
 
 ## 优梦前端git列表
-* bingshu.chen
+* [bingshu.chen] (http://github.com/CurtisCBS)
 * [chuan.wang] (http://github.com/frontMoment)
-* jiaojiao
+* [jiaojiao] (http://github.com/tudousi991112)
 * [mingming] (http://github.com/minerchow)
 * [moon] (http://github.com/yeshengfei)
 * [jianfeng.xiao(one)] (https://github.com/gufengpiaoxue) 
