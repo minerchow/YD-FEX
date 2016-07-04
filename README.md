@@ -6,7 +6,7 @@
 * jiaojiao
 * [mingming] (http://github.com/minerchow)
 * [moon] (http://github.com/yeshengfei)
-* one 
+* [jianfeng.xiao(one)] (https://github.com/gufengpiaoxue) 
 * [penghui.si] (http://github.com/angleone)
 * [xiaojian.dong] (http://github.com/xiaojiandong)
 
